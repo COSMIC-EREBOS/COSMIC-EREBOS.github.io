@@ -1,1 +1,1 @@
-# COSMIC-EREBOS.github.io
+# COSMIC-EREBUS.github.io
