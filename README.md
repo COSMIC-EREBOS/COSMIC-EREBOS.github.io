@@ -1,1 +1,1 @@
-# COSMIC-EREBUS.github.io
+# JWST-EREBUS.github.io
